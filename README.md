@@ -1,2 +1,2 @@
 # DNN
-This is the term project for the course DIL700
+Temperature estimation in laser additive manufacturing
